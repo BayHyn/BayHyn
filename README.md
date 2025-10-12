@@ -1,19 +1,26 @@
-# Hi There!
+# 记忆图书馆
 
-你可以在 repositories 中查找几乎所有的 astrbot 插件仓库
+**图书管理员：BayHyn** —— 保管着那些散落在世界各地、属于角色与故事的记忆档案。
 
-## 哪些 repositories 没有被备份?
+## 概览
 
-- 两个以及多个仓库在同一个 fork 网络上的，这时只能 fork 其一
-- 在初次备份开始前已经被删除的仓库
-- 未收录在 plugin.json 中的仓库
+记忆图书馆保存并索引 WentUrc 世界中的“档案仓库”与角色记忆。这里你可以查找几乎所有与 astrbot 插件及相关资料对应的档案与备份。
 
-## 想知道怎么运作的？
+## 哪些档案不会被备份？
 
-- 在 [此处](https://github.com/Larch-C/fork-repo) 你可以看见运作仓库
+* 位于同一 fork 网络中存在多个仓库时，只能选取其中一个进行备份。
+* 在首次备份开始前就已被删除的仓库不会被收录。
+* 未被列入 `plugin.json` 的仓库不会自动纳入备份。
 
-- 在 [此处](https://github.com/Larch-C/fork-repo/actions/workflows/fork.yml) 你可以看见运行记录
+## 运作方式（如何查看与核验）
 
-## 综上，一切都遵循开源协议，确保合法合规
+* 要查看运作原理与实现细节，可以参考运行仓库：`https://github.com/Larch-C/fork-repo` 。
+* 若想查看具体的自动化运行记录，请查阅工作流文件与其运行历史：`https://github.com/Larch-C/fork-repo/actions/workflows/fork.yml` 。
 
-如果觉得有问题，请在 [fork-repo 仓库](https://github.com/Larch-C/fork-repo/issues) 里面提交新 issue 来告知我。
+## 合规与免责声明
+
+本馆遵循开源协议，力求合法合规地保存与分发档案。若你在使用或归档过程中发现疑虑或问题，请及时告知。
+
+## 报告问题或提交反馈
+
+若发现异常或需要补充的档案，请在 fork-repo 仓库提交新 issue，BayHyn 会尽力处理。
