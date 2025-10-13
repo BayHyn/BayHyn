@@ -1,10 +1,14 @@
 # 记忆图书馆
 
-**图书管理员：BayHyn** —— 保管着那些散落在世界各地、属于角色与故事的记忆档案。
+**图书管理员是 BayHyn 我啦** 
+
+*—— 保管着那些散落在世界各地、属于角色与故事的记忆档案*
 
 ## 概览
 
-记忆图书馆保存并索引 WentUrc 世界中的“档案仓库”与角色记忆。这里你可以查找几乎所有与 astrbot 插件及相关资料对应的档案与备份。
+记忆图书馆保存并索引 WentUrc 世界中的“档案仓库”与角色记忆。
+
+这里你可以查找几乎所有与 astrbot 插件及相关资料对应的档案与备份。
 
 ## 哪些档案不会被备份？
 
@@ -14,8 +18,8 @@
 
 ## 运作方式（如何查看与核验）
 
-* 要查看运作原理与实现细节，可以参考运行仓库：`https://github.com/Larch-C/fork-repo` 。
-* 若想查看具体的自动化运行记录，请查阅工作流文件与其运行历史：`https://github.com/Larch-C/fork-repo/actions/workflows/fork.yml` 。
+* 要查看运作原理与实现细节，可以参考运行仓库：`https://github.com/BayHyn/fork-repo` 。
+* 若想查看具体的自动化运行记录，请查阅工作流文件与其运行历史：`https://github.com/BayHyn/fork-repo/actions/workflows/fork.yml` 。
 
 ## 合规与免责声明
 
